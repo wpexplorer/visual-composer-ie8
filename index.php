@@ -1,0 +1,1 @@
+<?php /* Hello Friend, what are you doing here? Get Out! */ ?>
